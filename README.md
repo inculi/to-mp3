@@ -1,4 +1,4 @@
-# to-alac
+# to-mp3
 Converts files to MP3 at 320Kbps
 
 # Usage
